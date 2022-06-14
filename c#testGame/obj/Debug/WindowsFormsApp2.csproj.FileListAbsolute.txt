@@ -1,0 +1,30 @@
+C:\Users\Serega\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Serega\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Serega\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Serega\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Serega\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Serega\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Serega\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Serega\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Serega\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Serega\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Серёга\Desktop\инфа курсач\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Серёга\Desktop\инфа курсач\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Серёга\Desktop\инфа курсач\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Серёга\Desktop\инфа курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Серёга\Desktop\инфа курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Серёга\Desktop\инфа курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Серёга\Desktop\инфа курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Серёга\Desktop\инфа курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Серёга\Desktop\инфа курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Серёга\Desktop\инфа курсач\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Serega\Desktop\Kursach\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Serega\Desktop\Kursach\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Serega\Desktop\Kursach\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Serega\Desktop\Kursach\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Serega\Desktop\Kursach\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Serega\Desktop\Kursach\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Serega\Desktop\Kursach\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Serega\Desktop\Kursach\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Serega\Desktop\Kursach\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Serega\Desktop\Kursach\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
